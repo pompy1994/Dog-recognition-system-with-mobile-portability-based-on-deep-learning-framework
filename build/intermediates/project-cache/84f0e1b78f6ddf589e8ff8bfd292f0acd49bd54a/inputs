@@ -1,0 +1,6 @@
+COMMAND=PREDEX_LIBRARY_TO_DEX_ARCHIVE
+FILE_PATH=/Users/pompy/app/caffe-android-demo-master/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar
+FILE_HASH=e9bb5786e92eea72e054a20151790fce47755223
+DX_VERSION=1.13
+JUMBO_MODE=true
+OPTIMIZE=true
